@@ -1,5 +1,5 @@
 # Automation Testing with Selenium and Typescript
-
+nbhkfnbkfndblnkl
 - install nodeJs
 - install "vs code"
 - in "vs code" File -> Open file -> "typescript-selenium"
